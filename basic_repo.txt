@@ -5,3 +5,9 @@ cd basic_repo
 git init
 
 touch index.html style.css
+
+git add .
+git commit -m "Initial Commit"
+
+git remote add origin git@github.com:VBurroughs21/basic_repo.git
+git push -u origin master
