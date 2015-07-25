@@ -1,0 +1,7 @@
+Went to my GitHub account and added the new repository.
+
+mkdir basic_repo
+cd basic_repo
+git init
+
+touch index.html style.css
